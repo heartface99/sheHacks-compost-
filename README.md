@@ -1,7 +1,7 @@
-# sheHacks-compost-
+# Green Thumb
 
 
-This is a project that detects whether or not an item is compostable. I worked on it for sheHacks 2018. 
+SheHacks 2018 project that detects whether or not an item is compostable. 
 
 Function: 
 
